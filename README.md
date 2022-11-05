@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/@mohit_jangra_" target="blank"><img src="https://img.shields.io/twitter/follow/@mohit_jangra_?logo=twitter&style=for-the-badge" alt="@mohit_jangra_" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://mohitportfolio1.netlify.app/](https://mohitportfolio1.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mohitjangra01.netlify.app/](https://mohitjangra01.netlify.app/)
 
 - 📫 How to reach me **mohitjangra883@gmail.com**
 
